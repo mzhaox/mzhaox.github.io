@@ -1,3 +1,6 @@
 *.md
 *.tex
 *.swp
+*.pdf
+*.cls
+*.log
